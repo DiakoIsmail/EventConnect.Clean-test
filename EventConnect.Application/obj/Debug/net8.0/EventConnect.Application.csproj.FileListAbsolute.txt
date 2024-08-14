@@ -1,0 +1,15 @@
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/bin/Debug/net8.0/EventConnect.Application.deps.json
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/bin/Debug/net8.0/EventConnect.Application.dll
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/bin/Debug/net8.0/EventConnect.Application.pdb
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/bin/Debug/net8.0/EventConnect.Domain.dll
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/bin/Debug/net8.0/EventConnect.Domain.pdb
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/EventConnect.Application.csproj.AssemblyReference.cache
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/EventConnect.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/EventConnect.Application.AssemblyInfoInputs.cache
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/EventConnect.Application.AssemblyInfo.cs
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/EventConnect.Application.csproj.CoreCompileInputs.cache
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/EventCon.C7EDEBA4.Up2Date
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/EventConnect.Application.dll
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/refint/EventConnect.Application.dll
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/EventConnect.Application.pdb
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Application/obj/Debug/net8.0/ref/EventConnect.Application.dll

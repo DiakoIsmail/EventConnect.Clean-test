@@ -1,0 +1,12 @@
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/bin/Debug/net8.0/EventConnect.Domain.deps.json
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/bin/Debug/net8.0/EventConnect.Domain.dll
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/bin/Debug/net8.0/EventConnect.Domain.pdb
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/EventConnect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/EventConnect.Domain.AssemblyInfoInputs.cache
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/EventConnect.Domain.AssemblyInfo.cs
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/EventConnect.Domain.csproj.CoreCompileInputs.cache
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/EventConnect.Domain.dll
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/refint/EventConnect.Domain.dll
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/EventConnect.Domain.pdb
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/ref/EventConnect.Domain.dll
+/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/Debug/net8.0/EventConnect.Domain.csproj.AssemblyReference.cache

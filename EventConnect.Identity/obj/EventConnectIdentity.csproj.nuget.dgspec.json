@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnectIdentity/EventConnectIdentity.csproj": {}
+  },
+  "projects": {
+    "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/EventConnect.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/EventConnect.Domain.csproj",
+        "projectName": "EventConnect.Domain",
+        "projectPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/EventConnect.Domain.csproj",
+        "packagesPath": "/Users/diakoismail/.nuget/packages/",
+        "outputPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diakoismail/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Persistence/EventConnect.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Persistence/EventConnect.Persistence.csproj",
+        "projectName": "EventConnect.Persistence",
+        "projectPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Persistence/EventConnect.Persistence.csproj",
+        "packagesPath": "/Users/diakoismail/.nuget/packages/",
+        "outputPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diakoismail/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/EventConnect.Domain.csproj": {
+                "projectPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Domain/EventConnect.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnectIdentity/EventConnectIdentity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnectIdentity/EventConnectIdentity.csproj",
+        "projectName": "EventConnectIdentity",
+        "projectPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnectIdentity/EventConnectIdentity.csproj",
+        "packagesPath": "/Users/diakoismail/.nuget/packages/",
+        "outputPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnectIdentity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diakoismail/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Persistence/EventConnect.Application.csproj": {
+                "projectPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Persistence/EventConnect.Application.csproj"
+              },
+              "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Persistence/EventConnect.Persistence.csproj": {
+                "projectPath": "/Users/diakoismail/Desktop/officiella project/EventConnect/backend/eventconnect-clean-achetecture-test/EventConnect.Clean/EventConnect.Persistence/EventConnect.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
